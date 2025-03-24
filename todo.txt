@@ -1,0 +1,9 @@
+project todos (Next.js)
+
+initial todos
+
+1. project architecture
+2. api structure
+3. ui designs
+
+tech todo 
